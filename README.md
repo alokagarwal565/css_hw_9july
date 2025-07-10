@@ -13,7 +13,7 @@ To view the webpage:
 1.  Clone this repository.
 2.  Open the `index.html` file in your web browser.
 
-Alternatively, you can access the live demo on GitHub Pages at: [[GitHub Pages](https://alokagarwal565.github.io/css_hw_9july/)]
+Alternatively, you can access the live demo on GitHub Pages at: [[Link](https://alokagarwal565.github.io/css_hw_9july/)]
 
 ### Kreeti Technologies React and AI Bootcamp:
 This homework is part of the ongoing React and AI Bootcamp by Kreeti Technologies.
